@@ -1,6 +1,6 @@
 {
   "name": "@arcane/widget-icons-rune",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "@protorians/core": "^0.1.15",
-    "@protorians/thread-core": "link:/Users/iancarter/Works/Projects/Protorians/thread-core"
+    "@protorians/thread-core": "^0.0.4"
   }
 }
