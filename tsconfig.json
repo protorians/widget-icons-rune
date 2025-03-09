@@ -4,7 +4,6 @@
     "moduleResolution": "node",
     "module": "NodeNext",
     "noEmit": false,
-    "outDir": "./build",
     "noImplicitAny": false,
     "allowJs": false,
     "removeComments": true,
