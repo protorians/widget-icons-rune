@@ -1,0 +1,11 @@
+{
+  "name": "Widget Icons",
+  "command": "widget:icons",
+  "description": "Widget Icons management",
+  "workdir": "./build",
+  "options": [
+    ["--craft, -c", "Craft all icons added in widgets.config.json"],
+    ["--add, -a <string>", "Add in icons list"],
+    ["--remove, -r <string>", "Remove in icons list"]
+  ]
+}
